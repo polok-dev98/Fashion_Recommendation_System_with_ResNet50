@@ -23,7 +23,7 @@ model = tensorflow.keras.Sequential([
 ])
 
 # load the test image and converted the image into expected model input.
-img = image.load_img('sample/shirt.jpg',target_size=(224,224))
+img = image.load_img('sample/shirt.jpg',target_size=(224,224)) # change the testing image name from sample folder for recommendation.
 img_array = image.img_to_array(img)
 expanded_img_array = np.expand_dims(img_array, axis=0)
 preprocessed_img = preprocess_input(expanded_img_array)
