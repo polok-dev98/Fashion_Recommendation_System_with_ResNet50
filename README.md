@@ -9,7 +9,7 @@ Dataset download link : https://www.kaggle.com/datasets/paramaggarwal/fashion-pr
 
 2.Create a project in any editor and paste all the repo file to the project folder.
 
-3.Download the dataset and put it to the project folder(Specially images file).
+3.Download the dataset and put it to the project folder(Specially images folder).
 
 4.Run the model_building.py file 
 
