@@ -25,6 +25,5 @@ Dataset download link : https://www.kaggle.com/datasets/paramaggarwal/fashion-pr
 
 6.Finally run the app.py file by this command : streamlit run app.py (command should be wrote on the terminal of the editor)
 
-# Enjoy !!!!!!!!!!!!!!
 
 
