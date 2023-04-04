@@ -1,7 +1,7 @@
 # fashion-recommender-system.
 A Deep Learning based Fashion Recommender System using  ResNET50, Here used the Fashion-Product-image-dataset for recommending items.
 
-Dataset download link : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/download?datasetVersionNumber=1
+Dataset download link: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/download?datasetVersionNumber=1
 
 # About the project:
 
