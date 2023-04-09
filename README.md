@@ -11,7 +11,7 @@ Dataset download link: https://www.kaggle.com/datasets/paramaggarwal/fashion-pro
 
 3.  Used Streamlit library to make a user interactive web app.
 
-# How to run:
+# How to run :
 
 1.Download the repo.
 
