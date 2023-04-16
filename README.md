@@ -5,11 +5,11 @@ Dataset download link: https://www.kaggle.com/datasets/paramaggarwal/fashion-pro
 
 # About the project:
 
-1.	Extracted features from the images using the ResNet50 transfer learning model.
+1. Extracted features from the images using the ResNet50 transfer learning model.
 
-2. 	K Nearest Neighbor algorithm is used to find the similar and recommend images for any given input image.
+2. K Nearest Neighbor algorithm is used to find the similar and recommend images for any given input image.
 
-3.  Used Streamlit library to make a user interactive web app.
+3. Used Streamlit library to make a user interactive web app.
 
 # How to run :
 
